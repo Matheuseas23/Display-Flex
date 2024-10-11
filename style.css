@@ -1,0 +1,90 @@
+body {
+    background-color: #00e5ff88;
+}
+header {
+    background-color: #0079a9;
+    height: 8rem;
+    
+}
+
+
+h1 {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.VS_CODE {
+    height: 6rem;
+    width: 100px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    border-radius: 25px;
+}
+
+.primeira-div {
+    display: flex;
+    margin-bottom: 40px;
+    gap: 20px;
+    
+  }
+ .p1 {
+    max-width: 300px;
+    margin-left: 30px;
+    margin-top: 70px;
+    font-family: 'Open Sans', sans-serif;
+    
+ }
+
+
+ .liveserver
+ {
+    height: 6rem;
+    margin-left: 710px;
+
+ }
+
+ .segunda-div {
+    
+    
+    gap: 20px;
+    background-color: #e602ff;
+    height: 10rem;
+    margin-bottom: 30px;
+    font-family: 'Lexend Deca', sans-serif;
+
+ }
+
+ .p2 {
+    max-width: 500px;
+    margin-left: 710px;
+ }
+
+.p1, .p2 {
+    width: 10rem;
+}
+
+.icon, .tokyo, .brasil {
+    height: 8rem;
+   margin-left: 710px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    justify-content: center;
+    
+}
+
+.brasil {
+    width: 20rem;
+    border-radius: 20px;
+}
